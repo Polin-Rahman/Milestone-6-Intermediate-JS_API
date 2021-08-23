@@ -9,5 +9,5 @@
 * object
 <hr>
 
-## 2. <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-30" target="_blank"><b>DOM manipulation & event handler</b></a>
+## 2. <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-30/dom-manipulation" target="_blank"><b>DOM manipulation & event handler</b></a>
 
