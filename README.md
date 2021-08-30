@@ -22,6 +22,22 @@
 * <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-31/filter-find" target="_blank">filter, find on an array of objects</a>
 * <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-31/class" target="_blank">Class, constructor, method, create object & Inheritance, extends class, super, class method</a>
 
+## Module-32
+* <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-32/JESON-intro" target="_blank">JSON introduction</a>
+* <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-32/display-data" target="_blank">Display data on UI</a>
+
+
+## Module-33
+* <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-33/API-examples" target="_blank">API examples</a>
+
+       - Quots - Kanye West
+       - Nested API data - finding buddy
+       - Display countries name, capital
+       - Dynamic url based - mealdbd
+       
+    
+
+
 
 
 
