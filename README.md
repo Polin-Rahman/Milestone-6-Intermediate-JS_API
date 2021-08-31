@@ -1,5 +1,6 @@
 # Milestone-6-Intermediate-JS_API
 
+[![job-interview](https://user-images.githubusercontent.com/61315426/131434243-f894674e-256d-4fbd-b928-8ab88323b4f8.png)](https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/interview-Q)
 ## Module-30
 ####  JS Core six parts:
   * variable
@@ -45,8 +46,8 @@
        - Compare objects
        - Use bind to borrow method from another object
        - bind, call and apply
- ## Interview Q/A      
-[![interview (1)](https://user-images.githubusercontent.com/61315426/131433209-02760367-25ce-49cd-977e-c2b0b5a11009.png)](https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/interview-Q)
+
+
 
 
        
