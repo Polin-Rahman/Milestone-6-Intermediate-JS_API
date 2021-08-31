@@ -34,6 +34,21 @@
        - Nested API data - finding buddy
        - Display countries name, capital
        - Dynamic url based - mealdbd
+
+## Module-35
+* <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-35" target="_blank">JS object concepts</a>
+
+       - Different way to Create Object
+       - Object method property
+       - Keys, values, entities, delete, seal, freeze
+       - Loop through an object 
+       - Compare objects
+       - Use bind to borrow method from another object
+       - bind, call and apply
+ ## Interview Q/A      
+[![interview (1)](https://user-images.githubusercontent.com/61315426/131433209-02760367-25ce-49cd-977e-c2b0b5a11009.png)](https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/interview-Q)
+
+
        
     
 
