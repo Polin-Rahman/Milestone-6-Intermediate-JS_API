@@ -1,5 +1,6 @@
 # Milestone-6-Intermediate-JS_API
 
+[![job-interview](https://user-images.githubusercontent.com/61315426/131434243-f894674e-256d-4fbd-b928-8ab88323b4f8.png)](https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/interview-Q)
 ## Module-30
 ####  JS Core six parts:
   * variable
@@ -34,6 +35,21 @@
        - Nested API data - finding buddy
        - Display countries name, capital
        - Dynamic url based - mealdbd
+
+## Module-35
+* <a href="https://github.com/Polin-Rahman/Milestone-6-Intermediate-JS_API/tree/main/module-35" target="_blank">JS object concepts</a>
+
+       - Different way to Create Object
+       - Object method property
+       - Keys, values, entities, delete, seal, freeze
+       - Loop through an object 
+       - Compare objects
+       - Use bind to borrow method from another object
+       - bind, call and apply
+
+
+
+
        
     
 
